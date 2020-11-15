@@ -288,3 +288,7 @@ body{
 .works{
 	position: relative;
 }
+.das{
+	display: flex;
+	font-size-adjust: 2;
+}
